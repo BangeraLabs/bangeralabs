@@ -1,0 +1,13 @@
+body{margin:0;font-family:Arial;background:#050b1d;color:#fff}
+header{display:flex;justify-content:space-between;padding:20px 40px}
+.logo span{color:#00e5ff}
+nav a{color:#fff;margin-left:20px;text-decoration:none}
+.hero{display:flex;justify-content:space-between;align-items:center;padding:80px 40px}
+.hero span{color:#00e5ff}
+.blob{width:300px;height:300px;background:radial-gradient(circle,#00e5ff,#004cff);border-radius:50%;filter:blur(60px)}
+.section{padding:60px 40px;text-align:center}
+.dark{background:#020617}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+.card{background:#0b1c3d;padding:30px;border-radius:12px}
+.tech-grid span{margin:10px;padding:10px 18px;background:#0b1c3d;border-radius:20px;display:inline-block}
+footer{text-align:center;padding:20px;background:#020617}
